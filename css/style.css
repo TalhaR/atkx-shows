@@ -10,22 +10,15 @@ main {
     padding: 5% 0%;
 }
 
-
 section {
     font-size: 3rem;
     padding: 2% 0%;
 }
 
-
 footer {
-    justify-content: center;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
     background-color: #375a7f;
-    padding: 1% 0%;
 }
 
 #socials {
-    font-size: 5rem;
+    font-size: 4rem;
 }
