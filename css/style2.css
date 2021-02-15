@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+}
+
+header h1 {
+    font-size: 5rem;
+}
+
+header img {
+    max-height: 600px;
+}
+
+header {
+    padding: 1% 0%;
+}
+
+.desc {
+    padding: 2% 5%;
+    text-align: left;  
+    font-size: 1.4rem;
+}
+
+main {
+    padding-bottom: 2%;
+}
+
+#gifs {
+    padding: 4% 0%;
+}
+
+#socials {
+    font-size: 4rem;
+}
+
+footer {
+    background-color: #375a7f;
+}
+
+@media screen and (min-width: 1550px) {
+    .desc {
+        font-size: 2rem;
+    }
+};
