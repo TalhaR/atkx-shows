@@ -3,11 +3,23 @@ body {
 }
 
 header h1 {
-    font-size: 10rem;
+    font-size: 3rem;
 }
 
 main {
     padding: 5% 0%;
+}
+
+.pages img {
+    height: 350px;
+    width: 100%;
+}
+
+@media only screen and (min-width: 1024px) {
+    .pages img {
+        height: 400px;
+        width: 100%;
+    }
 }
 
 section {
